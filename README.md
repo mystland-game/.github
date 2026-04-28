@@ -1,2 +1,7 @@
-# .github
-Browser-based 2D multiplayer RPG, inspired by Margonem.
+<p align="center">
+  <img src="apps/client/public/logo.svg" alt="Mystland" width="371" />
+</p>
+
+<p align="center">
+  Browser-based 2D multiplayer RPG, inspired by Margonem.
+</p>
