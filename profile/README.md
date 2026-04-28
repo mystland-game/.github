@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/public/logo.svg" alt="Mystland" width="371" />
+  <img src="../public/logo.svg" alt="Mystland" width="371" />
 </p>
 
 <p align="center">
